@@ -42,4 +42,4 @@ Round 3
 
 ##### Playground Extensions
 - [Playground Enhancer for Chrome](https://chrome.google.com/webstore/detail/flow-playground-enhancer/agjkjdemgkkmgdmeobefbmfiakkgkkdh)
-- [Playground Enhancer for Firefox)(https://addons.mozilla.org/en-US/firefox/addon/flow-playground-enhancer/)
+- [Playground Enhancer for Firefox](https://addons.mozilla.org/en-US/firefox/addon/flow-playground-enhancer/)

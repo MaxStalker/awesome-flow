@@ -5,7 +5,7 @@
 - [Flow Official Website](https://www.onflow.org/)
 - [Flow Documentation](https://www.onflow.org/docs)
 - [Flow Github](https://github.com/onflow)
-- [Flow Primer)(https://www.onflow.org/primer)
+- [Flow Primer](https://www.onflow.org/primer)
 - [Flow Technical Papers](https://www.onflow.org/technical-paper)
 
 #### Flow Community

@@ -21,7 +21,7 @@ Round 1
 - [NFT that can leave a record of ownership in an account that has owned it](https://play.onflow.org/62188087-bb62-4e1a-89cf-e437c729b5f0)
 - [Transformers game that uniquely creates transformer NFTs that can scan objects to transform into](https://play.onflow.org/7f66d257-3e12-4ac7-a2d0-2db503eede22)
 - [Game where you can collect Car parts that can be assembled into a full car with configurable stats](https://play.onflow.org/56099f70-d0c8-42eb-917c-9670554d764b)
-- [Adventure game where you can explore a map and find clues(https://play.onflow.org/159648c8-f6c2-49b1-8707-374f3efb80e8)
+- [Shadowrun inspired adventure game where you can explore a map and find clues](https://play.onflow.org/159648c8-f6c2-49b1-8707-374f3efb80e8)
 - [Robot hunter game where you can create unique robots based on a hash of a special word you’ve claimed for the robot](https://play.onflow.org/bffa4e28-0eaf-430c-83ea-7d2465daf98d)
 
 Round 2

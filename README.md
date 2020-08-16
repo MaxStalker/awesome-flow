@@ -1,5 +1,14 @@
-### **Awesome Flow** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## **Awesome Flow** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Table of Contents
+- [General Resources](#flow-general-resources)
+- [Flow Community](#flow-community)
+- [Playground](#playground)
+  - [Online Playground](#online-playground)
+  - [Cadence Cup](#cadence-cup-participants)
+  - [Playground Extensions](#playground-extensions)
+- [Videos](#videos)
+  - [Channels](#channels)
 
 #### Flow General Resources
 - [Flow Official Website](https://www.onflow.org/)
@@ -11,11 +20,11 @@
 #### Flow Community
 - [Flow Twitter](https://twitter.com/flow_blockchain)
 - [Flow Discord](https://discord.com/invite/flow)
+- [Flow Blog](https://www.onflow.org/blog)
 
+### Playground
 #### Online Playground
 - [Flow Playground](https://play.onflow.org/)
-
-#### Playground Projects
 ##### Cadence Cup Participants
 Round 1
 - [NFT that can leave a record of ownership in an account that has owned it](https://play.onflow.org/62188087-bb62-4e1a-89cf-e437c729b5f0)
@@ -43,3 +52,12 @@ Round 3
 ##### Playground Extensions
 - [Playground Enhancer for Chrome](https://chrome.google.com/webstore/detail/flow-playground-enhancer/agjkjdemgkkmgdmeobefbmfiakkgkkdh)
 - [Playground Enhancer for Firefox](https://addons.mozilla.org/en-US/firefox/addon/flow-playground-enhancer/)
+
+
+### Videos
+- [Cadence - Resource Oriented Programming Paradigm](https://www.youtube.com/watch?v=OYXIr3LuclE&t=64s)
+
+#### Channels
+- [Official Youtube Channel](https://www.youtube.com/channel/UCs9r5lqmYQsKCpLB9jKwocg)
+- [Block Trainer - your guide to Flow Blockchain](https://www.youtube.com/channel/UC5qtVf5CpV1kz6TolFFn3Rw)
+- [0xAlchemist - Live streaming of Flow code sessions](https://www.youtube.com/channel/UCMC_HV4H5qBuMSiK0Ngkufg)

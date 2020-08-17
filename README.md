@@ -3,6 +3,7 @@
 Table of Contents
 - [General Resources](#flow-general-resources)
 - [Flow Community](#flow-community)
+- [Projects](#projects)
 - [Playground](#playground)
   - [Online Playground](#online-playground)
   - [Cadence Cup](#cadence-cup-participants)
@@ -18,9 +19,16 @@ Table of Contents
 - [Flow Technical Papers](https://www.onflow.org/technical-paper)
 
 #### Flow Community
+- [Flow Forum](https://forum.onflow.org/)
 - [Flow Twitter](https://twitter.com/flow_blockchain)
 - [Flow Discord](https://discord.com/invite/flow)
 - [Flow Blog](https://www.onflow.org/blog)
+
+
+### Projects
+- [NBA TopShot](https://www.nbatopshot.com/)
+- Dr. Seuss - [Annoncement](https://medium.com/dapperlabs/dr-seuss-digital-collectibles-on-flow-by-the-creators-of-cryptokitties-7651835643a7)
+
 
 ### Playground
 #### Online Playground

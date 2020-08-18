@@ -18,6 +18,8 @@ Table of Contents
 - [Flow Primer](https://www.onflow.org/primer)
 - [Flow Technical Papers](https://www.onflow.org/technical-paper)
 
+- [Cadence Language Reference on GitBook](https://max-daunarovich.gitbook.io/flow-network)
+
 #### Flow Community
 - [Flow Forum](https://forum.onflow.org/)
 - [Flow Twitter](https://twitter.com/flow_blockchain)
